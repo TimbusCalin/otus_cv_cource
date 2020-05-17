@@ -6,6 +6,6 @@
 
     Dockerfile in repository <a href="https://github.com/stanislavkuskov/otus_cv_cource">root directory</a>.
 
-2. "Top-5" chart of standard cv models 
+2. “Top-5” accuracy chart of standard cnn models
 <a href="https://github.com/stanislavkuskov/otus_cv_cource/blob/master/src/otus_hw2/top_5_accuracy.ipynb">here</a>.
 
