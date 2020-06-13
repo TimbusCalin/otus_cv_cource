@@ -15,3 +15,7 @@
 4. TensorFlow transfer learning example
 <a href="https://github.com/stanislavkuskov/otus_cv_cource/blob/master/src/otus_hw4/transfer_learning.ipynb">here</a>.
 
+5. Data augmentation example
+<a href="https://github.com/stanislavkuskov/otus_cv_cource/blob/master/src/otus_hw5/data_augmentation.ipynb">here</a>.
+
+
