@@ -18,7 +18,7 @@
 5. Data augmentation example
 <a href="https://github.com/stanislavkuskov/otus_cv_cource/blob/master/src/otus_hw5/data_augmentation.ipynb">here</a>.
 
-6. Choosing project (face segmentation)
+6. Choosing project (face segmentation).
 
 7. Metrics example for face detector based on HAAR and LBP <a href="https://github.com/stanislavkuskov/otus_cv_cource/blob/master/src/otus_hw7/object_detection_metrics.ipynb">here</a>.
  Calculation of Precision, Recall, F1 and AP (with IOU).
