@@ -23,3 +23,4 @@
 7. Metrics example for face detector based on HAAR and LBP <a href="https://github.com/stanislavkuskov/otus_cv_cource/blob/master/src/otus_hw7/object_detection_metrics.ipynb">here</a>.
  Calculation of Precision, Recall, F1 and AP (with IOU).
 
+8. Finding optimal boxes for yolo with using clustering on COCO dataset objects and check difference between ground truth clusters and clusters with using yolo prediction.
